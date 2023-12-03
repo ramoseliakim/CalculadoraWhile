@@ -1,4 +1,5 @@
-# Projeto Criar Calculadora com While. Eliakim Ramos. Turma 11
+# Projeto Criar Calculadora com While. 
+#Eliakim Ramos. Turma 11
 def calculadora(operacao, num1, num2):
     contador = 0
     while contador == 0:
